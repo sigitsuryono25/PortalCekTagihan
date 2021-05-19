@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448692609324",
+    "project_id": "retribusi-pasar-1d1f1",
+    "storage_bucket": "retribusi-pasar-1d1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448692609324:android:81d4a85cf93d5b18c1cc89",
+        "android_client_info": {
+          "package_name": "com.surelabsid.lauwba.retribusipasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448692609324-trub0tv47ksgaacoj7e8gde3ku6eo5gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqaQa16rGyYVyBd0pRg6asWbEol6LoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448692609324-trub0tv47ksgaacoj7e8gde3ku6eo5gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
